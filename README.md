@@ -31,7 +31,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ Rocketseat 👋 [Acesse a comunidade!](https://discord.gg/rocketseat)
-Figma
-Figma: the collaborative interface design tool.
-Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.
-Figma: the collaborative interface design tool.
