@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A tela foi criada para divulgar uma loja fictícia de móveis. 
 
-- [Acesse o projeto finalizado, online](https://andresa43.github.io/nlw-setup-imersao-dev/)
+- [Acesse o projeto finalizado, online](https://andresa43.github.io/projeto_moveis_html_css/)
 
 ## 🔖 Layout
 
